@@ -1,1 +1,1 @@
-![Profile Banner](images/profile_banner.png)
+![Profile Banner](profile/images/profile_banner.png)
